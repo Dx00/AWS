@@ -1,4 +1,4 @@
 # AWS
 Aprendizado AWS
 
-Iniciando curso em AWS
+Iniciando curso sobre AWS
